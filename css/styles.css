@@ -1,0 +1,28 @@
+.intro{
+}
+
+.subtle{
+	color:rgba(0,0,50,.5);
+}
+.sample{
+	background-color: #000032;
+	height:100vh;
+}
+
+.ui.segment.sign-in{
+	background-color: white;
+	// margin:auto;
+}
+
+.sign-in{
+  margin-top:150px !important;
+}
+
+.intro{
+	margin-top: 100px !important;
+}
+
+.align-right{
+	display: flex;
+	justify-content: flex-end;
+}

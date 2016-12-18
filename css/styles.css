@@ -14,15 +14,15 @@
 	// margin:auto;
 }
 
-.sign-in{
-  margin-top:150px !important;
+
+.align-center{
+	display: flex !important;
+	align-items: center !important;
+	height: 100vh;
+	margin-top: -50px !important;
 }
 
-.intro{
-	margin-top: 100px !important;
-}
-
-.align-right{
+.justify-right{
 	display: flex;
 	justify-content: flex-end;
 }
